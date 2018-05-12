@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3821
     wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17443#Un-faccioso-m-s-y-algunos-frailes-menos
 gutenberg_issued: '2006-01-02'
 gutenberg_type: Text
 identifiers:
